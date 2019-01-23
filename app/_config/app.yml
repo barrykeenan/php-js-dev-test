@@ -1,0 +1,5 @@
+---
+Name: catchtest
+---
+SilverStripe\Core\Manifest\ModuleManifest:
+  project: app

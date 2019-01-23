@@ -1,0 +1,19 @@
+{
+    "name": "Catch Test",
+    "description": "Catch Dev Test",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Barry Keenan",
+            "email": "barry@mrkeenan.net"
+        }
+    ],
+    "require": {
+        "silverstripe/recipe-cms": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "CatchTest\\": "src/"
+        }
+    }
+}

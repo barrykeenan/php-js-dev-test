@@ -1,0 +1,7 @@
+/silverstripe-cache/
+/vendor/
+/themes/simple/
+/resources/
+/public/resources/
+*.DS_Store
+/log/
